@@ -1,0 +1,8 @@
+{
+  "name": "lodash-ts-intellij-repro",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "typescript": "^3.8.3"
+  }
+}
